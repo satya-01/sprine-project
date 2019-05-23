@@ -249,7 +249,7 @@
     <pluginRepository>
       <id>spring-milestones</id>
       <name>Spring Milestones</name>
-      <url>https://repo.spring.io/milestone</url>
+      <url>https://35.200.162.199:8081/repository/maven-snapshots/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
