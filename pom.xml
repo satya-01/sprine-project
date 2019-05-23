@@ -247,9 +247,9 @@
       </snapshots>
     </pluginRepository>
     <pluginRepository>
-      <id>spring-milestones</id>
-      <name>Spring Milestones</name>
-      <url>https://35.200.162.199:8081/repository/maven-snapshots/</url>
+      <id>spring-milestone-deploy</id>
+      <name>internal snapshot releases</name>
+      <url>http://35.200.162.199:8081/repository/maven-snapshots/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
